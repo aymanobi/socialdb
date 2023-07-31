@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ![Add solution URL here](https://github.com/aymanobi/socialdb.git)
-- Live Site URL: ![Add live site URL here](https://socialdb.netlify.app/)
+- Solution URL: [https://github.com/aymanobi/socialdb]
+- Live Site URL: [https://socialdb.netlify.app/]
 
 ## My process
 
