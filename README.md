@@ -43,5 +43,5 @@ Users should be able to:
 ## Author
 
 - Website - [my Website](https://aymanel.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/aymanobi)
-- Twitter - [@yourusername](https://www.twitter.com/rcc_1c)
+- Frontend Mentor - [@aymanobi](https://www.frontendmentor.io/profile/aymanobi)
+- Twitter - [@rcc_1c](https://www.twitter.com/rcc_1c)
