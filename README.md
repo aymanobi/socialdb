@@ -39,11 +39,9 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [React](https://reactjs.org/) - JS library
-- [vite](https://vitejs.dev/) - frontend tool for building web applications
 
 ## Author
 
-- Website - [Add your name here](https://aymanel.netlify.app/)
+- Website - [my Website](https://aymanel.netlify.app/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/aymanobi)
 - Twitter - [@yourusername](https://www.twitter.com/rcc_1c)
